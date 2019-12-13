@@ -28,3 +28,10 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
+# Add Gdrive integration 
+#group :jekyll_plugins do
+# gem 'jekyll-gdrive'
+# gem 'google_drive'
+#end
+
+gem 'google_drive'
