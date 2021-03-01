@@ -7,16 +7,15 @@ permalink: /cohorts/
 
 ||Study|Siblings|MZ twins|Trios 
 | :---|:----   |          :---: |:---: |
-|1. | [Finnish Twin Cohort](https://wiki.helsinki.fi/display/twineng/Twinstudy)
-|2. | Chinese National Twin Registry
-|3. | [Swedish Twin Registry](https://ki.se/en/research/the-swedish-twin-registry)
-|4. | [Texas Twin Project](https://sites.la.utexas.edu/twinproject/)
-|5. | [QTwin](https://www.qimrberghofer.edu.au/qtwin/)
-|6. | [Murcia Twin Registry](https://www.um.es/registrogemelos/ing/index.html)
-|7. | [Netherlands Twin Registry](http://www.tweelingenregister.org/en/information/)
-|8. | [Australian Mammographic Density Twins and Sisters Study](https://www.omicsdi.org/dataset/geo/GSE100227)
-|9. | [Italian Twin Registry](http://old.iss.it/gemelli/)
-|10.| [Minnesota Center for Twin and Family Research](http://mctfr.psych.umn.edu)
+|1. | [Finnish Twin Cohort](https://wiki.helsinki.fi/display/twineng/Twinstudy) | 
+|2. | [Swedish Twin Registry](https://ki.se/en/research/the-swedish-twin-registry)
+|3. | [Texas Twin Project](https://sites.la.utexas.edu/twinproject/)
+|4. | [QTwin](https://www.qimrberghofer.edu.au/qtwin/)
+|5. | [Murcia Twin Registry](https://www.um.es/registrogemelos/ing/index.html)
+|6. | [Netherlands Twin Registry](http://www.tweelingenregister.org/en/information/)
+|7. | [Australian Mammographic Density Twins and Sisters Study](https://www.omicsdi.org/dataset/geo/GSE100227)
+|8. | [Italian Twin Registry](http://old.iss.it/gemelli/)
+|9.| [Minnesota Center for Twin and Family Research](http://mctfr.psych.umn.edu)
 |11.| Osaka University Twin Registry
 |12.| [Longitudinal Study of Aging Danish Twins](https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/21041)
 |13.| [Generation Scotland](https://www.ed.ac.uk/generation-scotland)
