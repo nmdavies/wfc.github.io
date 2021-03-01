@@ -34,3 +34,5 @@ George Davey Smith, Peter Visscher, Per Magnus, Marcus Munafó, Rebecca Pearson,
 The Medical Research Council (MRC) and the University of Bristol support the The Within Family Consortium [MC_UU_00011/1], and Gib Hemani's Wellcome Trust and Royal Society Henry Dale Fellowship [208806/Z/17/Z].
 
 ![Bristol Logo](/assets/bristol.png)
+
+![MRC IEU Logo](/assets/mrc-ieu-logo.png)

@@ -1,0 +1,25 @@
+I"�<p>As part of running the sibling GWAS, we have harmonized the genotype and much of the phenotype data across multiple studies. It is our hope that this will provide a valuable resource to the community to make running additional analyses across these studies easier and quicker.</p>
+
+<ol>
+  <li><strong>Summary data requests</strong> We plan to publish the full genome-wide summary data from the sibling GWAS in full after the paper has been published. If you would like access to the summary data before the paper is published please complete the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG4Bk_MNoZKxOt13SrlakSk5URVhDS1pDS1U4NDRSMzdQUVEwQ0ZZMkpQRy4u">summary data proposal form</a>.</li>
+  <li><strong>New analysis</strong> If you would like to run additional analyses across the studies involved in the consortium, and would be willing to write automated pipelines, please fill complete the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG4Bk_MNoZKxOt13SrlakSk5UMjgwMkZUWDhUTk42SVpKR09HQlFOQ0c0My4u">extended proposal form</a>.</li>
+</ol>
+
+<p><strong>Process for new project proposals</strong></p>
+
+<ol>
+  <li>Send proposal to <a href="mailto:neil.davies@bristol.ac.uk">Neil Davies</a>, who will circulate analysis plans to consortium steering group</li>
+  <li>Steering group checks for duplicate ideas and puts people in touch if there’s duplication</li>
+  <li>After approval the proposer is responsible for: <br />
+<br />
+a. writing analysis plan (see <a href="https://docs.google.com/document/d/1A9HbwdVEnSul7eSeTdYfLtH1rkjTv5VMYVBs0wfZnxQ/edit?usp=sharing">sibling GWAS</a> for a template)<br />
+b. Generating scripts (see <a href="https://github.com/LaurenceHowe/SiblingGWAS">Laurence Howe’s GitHub</a> for example from the sibling GWAS)<br />
+c. Communicating with cohorts<br />
+d. Circulating scripts<br />
+e. Performing meta-analysis<br />
+f. Drafting paper and agreeing authorship</li>
+</ol>
+
+<p><strong>Approved access requests</strong></p>
+
+:ET
