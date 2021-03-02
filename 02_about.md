@@ -20,4 +20,4 @@ Neil Davies, Laurence Howe, Gibran Hemani, Tim Morris, Ben Brumpton, and Alex Ha
 
 The Steering Group comprises:
 
-George Davey Smith, Peter Visscher, Per Magnus, Marcus Munafó, Camilla Stoltenberg, Bjørn Åsvold, David Evans, Sarah Medland, Dan Benjamin, Philipp Koellinger, Melina Mills, Jonthan Beauchamp, Jaakko Kaprio, Caroline Hayward, Archie Campbell, Andrew McIntosh, Zhengming Chen, Iona  Millwood, Karl Heilbron, Michel Nivard, and Emla Fitzsimons.
+George Davey Smith, Peter Visscher, Per Magnus, Marcus Munafó, Camilla Stoltenberg, Bjørn Åsvold, David Evans, Sarah Medland, Dan Benjamin, Philipp Koellinger, Melinda Mills, Jonathan Beauchamp, Jaakko Kaprio, Caroline Hayward, Archie Campbell, Andrew McIntosh, Zhengming Chen, Iona  Millwood, Karl Heilbron, Michel Nivard, and Emla Fitzsimons.
