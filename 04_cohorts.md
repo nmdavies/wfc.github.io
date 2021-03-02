@@ -25,7 +25,7 @@ Table 1: Studies contributing to the sibling GWAS
 |14. | [TEDS)](https://ki.se/en/research/the-swedish-twin-registry)|3,172
 |15. | [TwinsUK)](https://twinsuk.ac.uk)|2,838
 |16. | [UK Biobank)](https://www.ukbiobank.ac.uk)|40,210
-|17. | [Viking1)]()|837
+|17. | [Viking1)](https://www.ed.ac.uk/viking)|837
 
 Table 2: Studies contacted with and involved other within family analyses
 

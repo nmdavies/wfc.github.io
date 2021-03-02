@@ -10,14 +10,15 @@ The Within Family Consortium is a group of researchers who are interested in usi
 **Aims and objectives**
 
 1. To undertake within family analyses across all available studies that have sampled related individuals. 
-2. Estimate direct genetic effects
-3. Estimate and understand indirect genetic effects
+2. Estimate and understand direct and indirect genetic effects 
+
+Direct genetic effects are the effects of inheriting an allele, indirect genetic effects are the effects due to other sources, e.g. demography, population stratification, assortative mating, and genetic nurture from relatives. 
 
 The consortium aims to help undertake projects using datasets of related individuals. Many of these projects require a lot of data, and more samples than are available in any one study. Therefore the best way to conduct these studies is to run analyses in all available studies, that have capacity to contribute. The model we are currently using is to distribute automated scripts and pipelines to studies to minimize the requirement for analyst time at each study, this federated model removes the need to transfer data between institutions and countries. 
 
 **Achievements thus far**
 
-We have conducted a within family GWAS using data from 159,701 siblings from 18 cohorts cohorts to generate population (between-family) and within-sibship (within-family) estimates of per-locus genetic associations for 25 phenotypes.
+We have conducted a within family GWAS using data from 159,701 siblings from 17 cohorts cohorts to generate population (between-family) and within-sibship (within-family) estimates of per-locus genetic associations for 25 phenotypes.
 
 **Executive & Steering Committees**
 
