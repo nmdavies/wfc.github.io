@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Welcome to the Within Family Consortium"
-date:   2019-12-11 13:16:01 +0000
+date:   2021-03-02 08:00:01 +0000
 categories: jekyll update
 ---
-<strong>Welcome to the Within Family Consortium<strong>
+<strong>Welcome to the Within Family Consortium <strong>
 
 The Within Family Consortium is a group of researchers who are interested in using datasets of related individuals to understand how the human genome influences a broad range of medical and socioeconomic traits. Our research involves researchers, expertise and methods from a wide range of fields. We are keen to promote high quality reproducible research. 
 
