@@ -7,7 +7,7 @@ permalink: /new_projects/
 As part of running the sibling GWAS, we have harmonized the genotype and much of the phenotype data across multiple studies. It is our hope that this will provide a valuable resource to the community to make running additional analyses across these studies easier and quicker.
 
 1. **Summary data requests** We plan to publish the full genome-wide summary data from the sibling GWAS in full after the paper has been published. If you would like access to the summary data before the paper is published please complete the [summary data proposal form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG4Bk_MNoZKxOt13SrlakSk5URVhDS1pDS1U4NDRSMzdQUVEwQ0ZZMkpQRy4u).
-2. **New analysis** If you would like to run additional analyses across the studies involved in the consortium, and would be willing to write automated pipelines, please fill complete the [extended proposal form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG4Bk_MNoZKxOt13SrlakSk5UMjgwMkZUWDhUTk42SVpKR09HQlFOQ0c0My4u).
+2. **New analysis** If you would like to run additional analyses across the studies involved in the consortium, and would be willing to write automated pipelines, please complete the [extended proposal form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG4Bk_MNoZKxOt13SrlakSk5UMjgwMkZUWDhUTk42SVpKR09HQlFOQ0c0My4u).
 
 **Process for new project proposals**
 

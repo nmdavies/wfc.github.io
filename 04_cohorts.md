@@ -17,15 +17,15 @@ Table 1: Studies contributing to the sibling GWAS
 |6. | [Finnish Twin Cohort](https://wiki.helsinki.fi/display/twineng/Twinstudy)|8,810
 |7. | [Generation Scotland (GS)](https://www.ed.ac.uk/generation-scotland)|11,608
 |8. | [GENOA](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000379.v1.p1&phd=3593)|1,696
-|10. | [The Nord-Trøndelag Health Study (HUNT)](https://www.ntnu.edu/hunt)|38,549
-|11. | [Netherlands Twin Registry (NTR))](https://www.um.es/registrogemelos/ing/index.html)|6,186
-|12. | [ORCADES)](https://mrc.ukri.org/research/facilities-and-resources-for-researchers/cohort-directory/orkney-complex-disease-study-orcades/)|930
-|13. | [QIMR Berghofer Medical Research Institute (QIMR)](https://www.qimrberghofer.edu.au/study/queensland-twin-registry-study/)|10,082
-|14. | [Swedish Twin Registry (STR)](https://ki.se/en/research/the-swedish-twin-registry)|3,488
-|16. | [TEDS)](https://ki.se/en/research/the-swedish-twin-registry)|3,172
-|17. | [TwinsUK)](https://twinsuk.ac.uk)|2,838
-|18. | [UK Biobank)](https://www.ukbiobank.ac.uk)|40,210
-|19. | [Viking1)]()|837
+|9. | [The Nord-Trøndelag Health Study (HUNT)](https://www.ntnu.edu/hunt)|38,549
+|10. | [Netherlands Twin Registry (NTR))](https://www.um.es/registrogemelos/ing/index.html)|6,186
+|11. | [ORCADES)](https://mrc.ukri.org/research/facilities-and-resources-for-researchers/cohort-directory/orkney-complex-disease-study-orcades/)|930
+|12. | [QIMR Berghofer Medical Research Institute (QIMR)](https://www.qimrberghofer.edu.au/study/queensland-twin-registry-study/)|10,082
+|13. | [Swedish Twin Registry (STR)](https://ki.se/en/research/the-swedish-twin-registry)|3,488
+|14. | [TEDS)](https://ki.se/en/research/the-swedish-twin-registry)|3,172
+|15. | [TwinsUK)](https://twinsuk.ac.uk)|2,838
+|16. | [UK Biobank)](https://www.ukbiobank.ac.uk)|40,210
+|17. | [Viking1)]()|837
 
 Table 2: Studies contacted with and involved other within family analyses
 
