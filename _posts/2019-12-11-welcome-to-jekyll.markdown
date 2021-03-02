@@ -1,29 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to the Within Family Consortium"
 date:   2019-12-11 13:16:01 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<strong>Welcome to the Within Family Consortium<strong>
 
-Jekyll requires blog post files to be named according to the following format:
+The Within Family Consortium is a group of researchers who are interested in using datasets of related individuals to understand how the human genome influences a broad range of medical and socioeconomic traits. Our research involves researchers, expertise and methods from a wide range of fields. We are keen to promote high quality reproducible research. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+**Aims and objectives**
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+1. To undertake within family analyses across all available studies that have sampled related individuals. 
+2. Estimate direct genetic effects
+3. Estimate and understand indirect genetic effects
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The consortium aims to help undertake projects using datasets of related individuals. Many of these projects require a lot of data, and more samples than are available in any one study. Therefore the best way to conduct these studies is to run analyses in all available studies, that have capacity to contribute. The model we are currently using is to distribute automated scripts and pipelines to studies to minimize the requirement for analyst time at each study, this federated model all removes the need to transfer data between institutions and countries. 
