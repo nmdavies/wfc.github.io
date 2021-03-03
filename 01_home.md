@@ -18,7 +18,7 @@ The consortium aims to help undertake projects using datasets of related individ
 
 **Achievements thus far**
 
-We have conducted a within family GWAS using data from 159,701 siblings from 17 cohorts cohorts to generate population (between-family) and within-sibship (within-family) estimates of per-locus genetic associations for 25 phenotypes.
+We have conducted a within family GWAS using data from 159,701 siblings from 17 cohorts to generate population (between-family) and within-sibship (within-family) estimates of per-locus genetic associations for 25 phenotypes.
 
 **Executive & Steering Committees**
 
