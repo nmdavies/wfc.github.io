@@ -24,7 +24,7 @@ We have conducted a within family GWAS using data from 159,701 siblings from 17 
 
 We have established Executive & Steering Committees to oversee the development and management of the Within Family Consortium. The Executive Committee comprises:
 
-Neil Davies, Laurence Howe, Gibran Hemani, Tim Morris, Ben Brumpton, and Alex Havdahl
+Neil Davies, Laurence Howe, Gibran Hemani, Tim Morris, Ben Brumpton, and Alexandra Havdahl
 
 The Steering Group comprises:
 
