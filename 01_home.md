@@ -18,7 +18,7 @@ The consortium aims to help undertake projects using datasets of related individ
 
 **Achievements thus far**
 
-We have conducted a within family GWAS using data from 159,701 siblings from 17 cohorts to generate population (between-family) and within-sibship (within-family) estimates of per-locus genetic associations for 25 phenotypes, published Nature Genetics 2022. 
+We have conducted a within family GWAS using data from 178,086 siblings from 17 cohorts to generate population (between-family) and within-sibship (within-family) estimates of per-locus genetic associations for 25 phenotypes, published Nature Genetics 2022. 
 
 1. Howe, L. J. et al. Within-sibship genome-wide association analyses decrease bias in estimates of direct genetic effects. Nat Genet 54, 581–592 (2022).
 

@@ -29,9 +29,7 @@ Table 1: Studies contributing to the sibling GWAS
 |18. | [UK Biobank](https://www.ukbiobank.ac.uk)|40,210
 |19. | [Viking1](https://www.ed.ac.uk/viking)|839
 
-
-
-Table 2: Studies contacted with and involved other within family analyses
+Table 2: Studies contacted with and involved with other within family analyses
 
 ||Study|Siblings|MZ twins|Trios|Duos
 | :---|:----   |          :---: |:---: |
