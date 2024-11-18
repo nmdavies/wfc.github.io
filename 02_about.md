@@ -16,7 +16,7 @@ The consortium aims to help undertake projects using datasets of related individ
 
 We have established Executive & Steering Committees to oversee the development and management of the Within Family Consortium. The Executive Committee comprises:
 
-Neil Davies, Laurence Howe, Gibran Hemani, Tim Morris, Ben Brumpton, and Alexandra Havdahl
+Neil Davies, Gibran Hemani, David Bann, Ben Brumpton, and Alexandra Havdahl
 
 The Steering Group comprises:
 

@@ -18,21 +18,23 @@ The consortium aims to help undertake projects using datasets of related individ
 
 **Achievements thus far**
 
-We have conducted a within family GWAS using data from 159,701 siblings from 17 cohorts to generate population (between-family) and within-sibship (within-family) estimates of per-locus genetic associations for 25 phenotypes.
+We have conducted a within family GWAS using data from 159,701 siblings from 17 cohorts to generate population (between-family) and within-sibship (within-family) estimates of per-locus genetic associations for 25 phenotypes, published Nature Genetics 2022. 
+
+1. Howe, L. J. et al. Within-sibship genome-wide association analyses decrease bias in estimates of direct genetic effects. Nat Genet 54, 581–592 (2022).
 
 **Executive & Steering Committees**
 
 We have established Executive & Steering Committees to oversee the development and management of the Within Family Consortium. The Executive Committee comprises:
 
-Neil Davies, Laurence Howe, Gibran Hemani, Tim Morris, Ben Brumpton, and Alexandra Havdahl
+Neil Davies, Gibran Hemani, David Bann, Ben Brumpton, and Alexandra Havdahl
 
 The Steering Group comprises:
 
-George Davey Smith, Peter Visscher, Per Magnus, Marcus Munafó, Rebecca Pearson, Camilla Stoltenberg, Bjørn Åsvold, David Evans, Sarah Medland, Dan Benjamin, Philipp Koellinger, Melinda Mills, Jonathan Beauchamp, Jaakko Kaprio, Caroline Hayward, Archie Campbell, Andrew McIntosh, Zhengming Chen, Iona  Millwood, Karl Heilbron, Michel Nivard, and Emla Fitzsimons.
+George Davey Smith, Peter Visscher, Per Magnus, Marcus Munafò, Rebecca Pearson, Camilla Stoltenberg, Bjørn Åsvold, David Evans, Sarah Medland, Dan Benjamin, Philipp Koellinger, Melinda Mills, Jonathan Beauchamp, Jaakko Kaprio, Caroline Hayward, Archie Campbell, Andrew McIntosh, Zhengming Chen, Iona  Millwood, Karl Heilbron, Michel Nivard, and Emla Fitzsimons.
 
 <strong>Acknowledgments<strong>
 
-The Medical Research Council (MRC) and the University of Bristol support the The Within Family Consortium [MC_UU_00011/1], and Gib Hemani's Wellcome Trust and Royal Society Henry Dale Fellowship [208806/Z/17/Z].
+The Within Family Consortium is supported by The Medical Research Council (MRC) and the University of Bristol [MC_UU_00011/1], Gib Hemani's Wellcome Trust and Royal Society Henry Dale Fellowship [208806/Z/17/Z] and the National Institute of Mental Health (NIMH) MH130448.
 
 ![Bristol Logo](/assets/bristol.png)
 

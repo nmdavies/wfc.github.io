@@ -11,7 +11,7 @@ As part of running the sibling GWAS, we have harmonized the genotype and much of
 
 **Process for new project proposals**
 
-1. Send proposal to [Neil Davies](mailto:neil.davies@bristol.ac.uk), who will circulate analysis plans to consortium steering group
+1. Send proposal to [Neil Davies](mailto:neil.m.davies@ucl.ac.uk), who will circulate analysis plans to consortium steering group
 2. Steering group checks for duplicate ideas and puts people in touch if there's duplication
 3. After approval the proposer is responsible for: \
 \
