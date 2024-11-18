@@ -31,7 +31,7 @@ Table 1: Studies contributing to the sibling GWAS
 
 
 
-Table 2: Studies contacted with and involved other within family analyses
+Table 2: Studies contacted with and involved with other within family analyses
 
 ||Study|Siblings|MZ twins|Trios|Duos
 | :---|:----   |          :---: |:---: |
