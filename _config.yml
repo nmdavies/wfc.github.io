@@ -60,3 +60,14 @@ destination: docs
 # gdrive:
  # sheet: "title of my spreadsheet"
  # cache_period: 5 minutes
+
+# Navigation settings
+navigation:
+  - title: "About"
+    url: "/about/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Contact"
+    url: "/contact/"
