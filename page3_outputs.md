@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Key Outputs
+title: Key outputs
 permalink: /key_outputs/
 ---
 

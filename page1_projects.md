@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
+title: Current projects
 permalink: /projects/
 ---
 
-**Project 3: Trio GWAS**
+## Project 3: Trio GWAS
 
 Leads: Isabella Badini, Alexandra Havdahl, David Bann, Gib Hemani, Neil Davies
 
@@ -21,7 +21,7 @@ We are conducting GWAS of 25 phenotypes using data from studies with siblings an
 
 The analysis is being run independently by analysts for each study. Isabella Badini has written an automated pipeline that is available on her [GitHub page](https://github.com/isabellabadini/TrioGWAS). This automates most of the process of running the analysis, creating the study summary data and packages summary associations (SNP-phenotype associations) up for upload to University College London. We will meta-analyze the summary data across the studies, and make summary data publicly available.
 
-**Project 2: MZ GWAS of variance**
+## Project 2: MZ GWAS of variance
 
 Leads: Elham Assray, Teemu Palviainen, Patrica Monroe, Neil Davies, Gibran Hemani, Jaakko Kaprio
 
@@ -37,7 +37,7 @@ Github repository containing an example pipeline with relevant scripts can be fo
 **Pre-print**
 We have finished a first draft of this paper and uploaded to ResearchSquare, you can find the full paper [here](https://www.researchsquare.com/article/rs-4333635/v1).
 
-**Project 1: Sibling GWAS**
+## Project 1: Sibling GWAS
 
 Leads: Laurence Howe, Ben Brumpton, Gib Hemani, Neil Davies
 
@@ -53,6 +53,5 @@ We are conducting GWAS of 25 phenotypes using data from studies with siblings an
 
 **Code**
 
-<<<<<<< HEAD
 The analysis was run independently by analysts for each study. Laurence Howe wrote an automated pipeline that is available on his [GitHub page](https://github.com/LaurenceHowe/SiblingGWAS). This automated most of the process of running the analysis, creating the study summary data and packaging the summary associations (SNP-phenotype associations) up for upload to University of Bristol servers. We meta-analyzed the summary data across the studies, and made summary data publicly available.
 
